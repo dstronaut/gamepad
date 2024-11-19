@@ -7994,7 +7994,7 @@
 				)
 			)
 		)
-		(property "Footprint" "tp4056:SOP127P600X175-9N"
+		(property "Footprint" "Package_SO:HTSOP-8-1EP_3.9x4.9mm_P1.27mm_EP2.4x3.2mm_ThermalVias"
 			(at 69.596 26.416 0)
 			(effects
 				(font
